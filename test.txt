@@ -1,1 +1,53 @@
-test git hub
+Git hub commands:
+
+
+
+git add <files>
+
+git commit
+
+git commit  -a : [commit changed files]
+
+git push origin :[push to repository]
+
+git push  origin master : [push to repository as master]
+
+git fetch origin :[contents of another repository]
+
+git fetch origin master: [ fetch of another repository as master]
+
+git fetch origin :[fetch only one of the branch]
+
+git fetch origin master :[fetch only one of the branch as master]
+
+git merge other_branch :[merger a branch with current branch]
+
+
+
+
+
+git clone url
+
+
+
+send to github:
+
+git add filename.ext
+
+git commit -m “message”
+
+git push
+
+
+
+// add all files
+
+git add —all && git commit -m “comment” 
+
+
+
+get from git:
+
+get from github
+
+git pull
